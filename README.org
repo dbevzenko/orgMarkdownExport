@@ -93,5 +93,7 @@ we like best, every pleasure is to be welcomed and every pain avoided. But in ce
 claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and
 annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects
 pleasures to secure other greater pleasures, or else he endures pains to avoid worse.
-** Link to code block
-[[*Code blocks]]
+** Internal links
+1. This is a link to section [[*Code blocks][Code blocks]] section.
+2. This is a link to the [[block1][code block]] from the [[*Code blocks][Code blocks]] section. It works in in the org mode, but currently =ox-gfm=
+   export does not handle it.
