@@ -32,7 +32,7 @@ pleasures to secure other greater pleasures, or else he endures pains to avoid w
 ** Code blocks
 The following is a code block writen in Typescript:
 #+name: block1
-#+begin_src 
+#+begin_src typescript
 const a = 10;
 
 function square(x: number) {
@@ -93,3 +93,5 @@ we like best, every pleasure is to be welcomed and every pain avoided. But in ce
 claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and
 annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects
 pleasures to secure other greater pleasures, or else he endures pains to avoid worse.
+** Link to code block
+[[block1]]
